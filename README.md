@@ -50,7 +50,7 @@ const umerJamil = {
 
 ### 🔭 Currently Working On
 - 🎯 Building *MERN Stack applications*
-- 🎨 Creating **responsive UI** with React & Next.js
+- 🎨 Creating **responsive UI** with React &  Next.js
 - ⚡ Developing **RESTful APIs** with Node.js & Express
 
 </td>

@@ -11,7 +11,6 @@
 
 </div>
 
-<!-- Animated About Section -->
 <div align="center">
   
 About Me

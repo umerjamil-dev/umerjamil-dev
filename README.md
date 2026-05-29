@@ -125,18 +125,7 @@ const umerJamil = {
 
 ---
 
-<div align="center">
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerjamil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerjamil&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=umerjamil&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -168,11 +157,6 @@ const umerJamil = {
 🤖 AI-Powered Web App Projects
 ```
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=umerjamil&label=Profile%20Views&color=0d6efd&style=flat)
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=120&section=footer"/>
 
 </div>

@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Typing animation -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Apps;Learning+Agentic+AI+%F0%9F%A4%96;Open+for+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>

@@ -21,15 +21,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```typescript
-const umerJamil = {
-    location: "🇵🇰 Karachi, Pakistan",
-    role: "MERN Stack Developer",
-    currentFocus: "Building scalable web apps with MERN Stack",
-    techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    learning: ["Agentic AI 🤖", "LLM Integration"],
-    openTo: ["Freelance", "Collaboration", "Full-time Roles"],
-    funFact: "I turn ☕ into clean, scalable code!",
-};
+
 ```
 
 <br clear="right"/>

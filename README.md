@@ -1,10 +1,8 @@
 <div align="center">
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Umer%20Jamil&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20Developer%20%7C%20AI%20Explorer&descSize=18&descAlignY=55" />
 
 <br/>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Apps;Learning+Agentic+AI+%F0%9F%A4%96;Open+for+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
@@ -15,6 +13,12 @@
 <div align="center">
 
 ## 👨‍💻 About Me
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```typescript
 const umerJamil = {
   name: "Umer Jamil",
   role: "MERN Stack Developer",
@@ -28,12 +32,6 @@ const umerJamil = {
   },
   funFact: "I turn coffee into MERN Stack apps ☕"
 };
-</div>
-
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```typescript
-
 ```
 
 <br clear="right"/>
@@ -129,10 +127,6 @@ const umerJamil = {
 
 ---
 
-
-
----
-
 <div align="center">
 
 ## 🤝 Let's Connect & Collaborate!
@@ -153,14 +147,3 @@ const umerJamil = {
 </p>
 
 ### 💬 Open for
-
-```
-✨ Freelance Projects
-🤝 Collaboration Opportunities  
-💼 MERN Stack Developer Roles
-🤖 AI-Powered Web App Projects
-```
-
-
-
-</div>

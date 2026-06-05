@@ -15,7 +15,19 @@
 <div align="center">
 
 ## 👨‍💻 About Me
-
+const umerJamil = {
+  name: "Umer Jamil",
+  role: "MERN Stack Developer",
+  learning: ["MERN Stack", "Agentic AI", "LangChain", "OpenAI API"],
+  available: true,
+  openTo: ["Freelance", "Collaboration", "MERN Stack Roles", "AI Projects"],
+  contact: {
+    email: "umerjamil1218@gmail.com",
+    linkedin: "linkedin.com/in/umerjamil",
+    portfolio: "umer-jamil-project-showing-portfolio.vercel.app"
+  },
+  funFact: "I turn coffee into MERN Stack apps ☕"
+};
 </div>
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>

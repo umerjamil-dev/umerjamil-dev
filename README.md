@@ -30,7 +30,7 @@ const umerJamil = {
     linkedin: "linkedin.com/in/umerjamil",
     portfolio: "umer-jamil-project-showing-portfolio.vercel.app"
   },
-  funFact: "I turn coffee into MERN Stack apps ☕"
+ 
 };
 ```
 

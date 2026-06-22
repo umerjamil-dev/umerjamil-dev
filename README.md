@@ -129,7 +129,7 @@ const umerJamil = {
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let s Connect & Collaborate!
 
 <p>
   <a href="https://umer-jamil-project-showing-portfolio.vercel.app/">

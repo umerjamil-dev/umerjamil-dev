@@ -24,7 +24,7 @@ const umerJamil = {
   role: "MERN Stack Developer",
   learning: ["MERN Stack", "Agentic AI", "LangChain", "OpenAI API"],
   available: true,
-  openTo: ["Freelance", "Collaborations", "MERN Stack Roles", "AI Projects"],
+  openTo: ["Freelance", "Collaboration", "MERN Stack Roles", "AI Projects"],
   contact: {
     email: "umerjamil1218@gmail.com",
     linkedin: "linkedin.com/in/umerjamil",

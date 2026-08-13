@@ -52,7 +52,7 @@ const umerJamil = {
 </td>
 <td width="50%">
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - 🤖 **Agentic AI* — autonomous agents & LLM-powered apps
 - 🧠 **AI/ML integration** for intelligent web features
 - 🔗 **LangChain / AI APIs** for full-stack AI apps

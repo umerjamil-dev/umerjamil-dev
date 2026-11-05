@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a2a66&height=250&section=header&text=Umer%20Jamil&fontSize=78&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20Agent%20Builder&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a2a66&height=250&section=header&text=Umer%20Jamil&fontSize=78&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Agent%20Builder%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=58" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=700&height=45&lines=AI+Engineer+%F0%9F%A4%96;Building+Multi-Agent+Systems+%26+Sub-Agents;LangChain+%7C+OpenAI+%7C+Tool+Calling+%7C+RAG;MERN+Stack+Developer+%F0%9F%9A%80;Shipping+ideas+as+real+products+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=700&height=45&lines=Agent+Builder+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Building+Multi-Agent+Systems+%26+Sub-Agents;LangChain+%7C+OpenAI+%7C+Tool+Calling+%7C+RAG;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
 </a>
 
 <p>
@@ -17,7 +17,6 @@
   <a href="#-agents-ive-built"><b>Agents</b></a> &nbsp;•&nbsp;
   <a href="#-focus"><b>Focus</b></a> &nbsp;•&nbsp;
   <a href="#-tech-arsenal"><b>Stack</b></a> &nbsp;•&nbsp;
-  <a href="#-github-stats"><b>Stats</b></a> &nbsp;•&nbsp;
   <a href="#-contact"><b>Contact</b></a>
 </p>
 
@@ -29,24 +28,26 @@
 
 <img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm an **AI Engineer & MERN Stack Developer** who builds things that think *and* ship.
-I design **multi-agent pipelines and sub-agent architectures**, then wrap them in fast, production-ready full-stack apps.
+I'm an **Agent Builder & Full Stack Developer** who builds things that think *and* ship.
+I design **multi-agent pipelines and sub-agent architectures**, then wrap them in fast, production-ready full-stack apps, deployed and running on real servers.
 
 ```typescript
 const umerJamil = {
-  role: ["AI Engineer", "MERN Stack Developer"],
+  role: ["Agent Builder", "Full Stack Developer"],
   location: "Karachi, Pakistan 🇵🇰",
   builds: [
     "Multi-Agent Systems",
     "Sub-Agent Architectures",
     "LLM-powered Web Apps",
-    "Scalable MERN Applications",
+    "Scalable Full Stack Applications",
   ],
   stack: {
     ai: ["LangChain", "OpenAI API", "Tool Calling", "RAG"],
-    web: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+    web: ["React", "Next.js", "Node.js", "Express", "Tailwind CSS"],
+    database: ["MongoDB", "PostgreSQL"],
+    deploy: ["VPS", "Hostinger", "GoDaddy"],
   },
-  openTo: ["Freelance", "Collaboration", "AI Engineering Roles", "MERN Roles"],
+  openTo: ["Freelance", "Collaboration", "Agent Projects", "Full Stack Projects"],
   currentMood: "Shipping agents 🤖",
 };
 ```
@@ -102,10 +103,10 @@ An agent that creates and publishes content end-to-end.
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Currently Exploring
+### 🌱 Currently Learning
+- 🔗 **LangGraph** for stateful agent workflows
+- 🔬 **LangSmith** for tracing & debugging agents
 - 🧠 **RAG** & vector databases
-- 🔗 **LangGraph** & agent orchestration
-- 🛠️ **AI-powered features** for real client products
 
 </td>
 </tr>
@@ -117,6 +118,7 @@ An agent that creates and publishes content end-to-end.
 
 ## 🛠️ Tech Arsenal
 
+### 🤖 AI & Agents
 <p>
   <img src="https://img.shields.io/badge/Agentic_AI-0A2A66?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Multi--Agent_Systems-0D6EFD?style=for-the-badge&logo=probot&logoColor=white" />
@@ -126,24 +128,28 @@ An agent that creates and publishes content end-to-end.
   <img src="https://img.shields.io/badge/FastAPI-0D6EFD?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
+### 💻 Frontend & ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express&perline=9" />
 </p>
 
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=2" />
+</p>
+
+### 🌐 Deployment & Hosting
+<p>
+  <img src="https://img.shields.io/badge/VPS-0A2A66?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-0D6EFD?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoDaddy-0A2A66?style=for-the-badge&logo=godaddy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### 🔧 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,postman&perline=6" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=umerjamil&show_icons=true&hide_border=true&bg_color=0a1628&title_color=3b82f6&icon_color=3b82f6&text_color=cbd5e1&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerjamil&layout=compact&hide_border=true&bg_color=0a1628&title_color=3b82f6&text_color=cbd5e1" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=umerjamil&hide_border=true&background=0a1628&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=94a3b8&dates=64748b" />
 
 ---
 
@@ -164,7 +170,7 @@ An agent that creates and publishes content end-to-end.
   </a>
 </p>
 
-**AI Engineering** • **Agent Development** • **MERN Projects** • **Freelance** • **Collaboration**
+**Agent Development** • **Full Stack Projects** • **Freelance** • **Collaboration**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a2a66&height=120&section=footer" />
 

@@ -67,7 +67,7 @@ An orchestrator + **sub-agent** system for client outreach.
 
 | Agent | Role |
 |:--|:--|
-| 🔍 Research | Finds & qualifies leads |
+| 🔍 Research | Finds & qualifies lead |
 | ✍️ Writer | Drafts personalised outreach |
 | 🧭 Orchestrator | Coordinates the full flow |
 
